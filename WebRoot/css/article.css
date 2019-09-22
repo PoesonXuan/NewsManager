@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+body{
+	color: #6f6f6f;
+}
+#articleContent{
+	width: 100%;
+	height: auto;
+	font-size:20px;
+	font: lighter;
+}
+#commentLists{
+	width: 100%;
+	height: auto;
+}
+#commentList{
+	width: 100%;
+	height: auto;	
+}
+.commentList{
+	font-family: serif;
+	font-size: 18px;
+	color: white;
+}
+#send{
+	width: 80px;
+	height: 40px;
+	margin-top: 10px;
+	font:bold;
+}
